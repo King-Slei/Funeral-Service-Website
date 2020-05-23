@@ -14,4 +14,4 @@ There are 3 css:
 
 You have to alter css href link if it doesn't show any css on page.
 
-https://github.com/faizannali/Company-portfolio-website/blob/master/css/mobile.css
+https://faizannali.github.io/Company-portfolio-website/
