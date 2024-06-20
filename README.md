@@ -1,7 +1,7 @@
 # Company-portfolio-website
 <b>Preview<b>
   https://faizannali.github.io/Company-portfolio-website/
-  
+Since this is hosted on github, no financial transactions should go on here.
 This is a basic template for any company to create a basic static website with map and contact us feature.
 This includes:-
 
